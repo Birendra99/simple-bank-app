@@ -1,15 +1,13 @@
 # Simple Bank App
 
 A simple banking application built with Spring Boot, PostgreSQL, Thymeleaf, JPA, and Hibernate.  
-This app demonstrates basic banking operations like user account management, transactions, and balance tracking.
 
 ## Features
 
-- User registration and login
-- View account details
+- View Transactions details
 - Deposit and withdraw funds
 - Transaction history
-- Admin dashboard (optional, if added)
+
 
 ## Tech Stack
 
