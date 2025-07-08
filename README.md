@@ -29,5 +29,5 @@ A simple banking application built with Spring Boot, PostgreSQL, Thymeleaf, JPA,
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/simple-bank-app.git
+   git clone https://github.com/Birendra99/simple-bank-app.git
    cd simple-bank-app
